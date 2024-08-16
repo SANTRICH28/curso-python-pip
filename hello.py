@@ -1,1 +1,1 @@
-print('Hola desde mi equipo')
+print('Hola desde mi equipo favorito')
