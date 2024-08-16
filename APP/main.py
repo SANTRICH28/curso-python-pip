@@ -1,5 +1,5 @@
 import utils
-import read_csv
+from read_csv import read_csv
 import charts
 
 def run():
